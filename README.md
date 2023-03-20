@@ -1,5 +1,5 @@
 # lecture_16_JS_типы_данных  
-
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_29_JS_methods_this/blob/main/tasks.md)  
 
 -  для вывода в консоль **console.log();**  
 -  для отображения в сплывающем окне метод **alert()** выводит на экран модальное окно с указанным сообщением и кнопкой "OK"  
